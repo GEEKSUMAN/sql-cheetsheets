@@ -1,5 +1,5 @@
 # SQL-Cheetsheet
-This repo contains useful cheatsheets for SQL / My-SQL . Feel free to use the CheatSheets to help learn new skills.
+This repo contains useful cheatsheets for SQL / My-SQL . Feel free to use this CheatSheets and help others learning new skills.
 # Quick SQL Cheatsheet
 
 A quick reminder of all relevant SQL queries and examples on how to use them. 
